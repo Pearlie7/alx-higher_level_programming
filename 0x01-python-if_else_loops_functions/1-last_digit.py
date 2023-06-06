@@ -8,7 +8,7 @@ if number >= 0:
 else:
     lastDigit = (-number % 10) * -1
 
-message = f"last digit of {number} is {lastDigit}"
+message = f"Last digit of {number} is {lastDigit}"
 
 if lastDigit == 0:
     print(f"{message} and is 0")
