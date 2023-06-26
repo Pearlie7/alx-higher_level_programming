@@ -1,5 +1,5 @@
 #include <Python.h>
->
+#include <stdio.h>
 /**
  * print_python_float - prints data of the PyFloatObject
  * @p: the PyObject
